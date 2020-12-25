@@ -1,0 +1,11 @@
+[package]
+name = "cargo-custom-command-c4rls"
+version = "0.1.0"
+authors = ["c4rls <ssantos.carloseduardo@gmail.com>"]
+edition = "2018"
+description = "To test Cargo Custom Commands"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
